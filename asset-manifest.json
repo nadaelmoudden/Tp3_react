@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tp3_react/static/css/main.bbe610f2.css",
+    "main.js": "/Tp3_react/static/js/main.33a980a8.js",
+    "index.html": "/Tp3_react/index.html",
+    "main.bbe610f2.css.map": "/Tp3_react/static/css/main.bbe610f2.css.map",
+    "main.33a980a8.js.map": "/Tp3_react/static/js/main.33a980a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbe610f2.css",
+    "static/js/main.33a980a8.js"
+  ]
+}
